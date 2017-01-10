@@ -1547,41 +1547,41 @@ servo_test2 ();
     void roll () {
    
       leg_onepush0 ();
-      delay(150);
+      delay(300);
       leg_onepush ();
-      delay(150);
+      delay(300);
      leg_onepush1 ();
  delay (1000);
       leg_twopush0 ();
-      delay(150);
+      delay(300);
       leg_twopush ();
-      delay(150);
+      delay(300);
       leg_twopush1 ();
      
   delay (1000);
       leg_threepush0 ();
-      delay(150);
+      delay(300);
       leg_threepush ();
-      delay(150);
+      delay(300);
      leg_threepush1 ();
   delay (1000);
       leg_fourpush0();
-      delay(150);
+      delay(300);
       leg_fourpush();
-      delay(150);
+      delay(300);
     leg_fourpush1();
  delay (1000);
 
       leg_fivepush0();
-      delay(150);
+      delay(300);
       leg_fivepush ();
-      delay(150);
+      delay(300);
     leg_fivepush1();
  delay (1000);
       leg_sixpush();
-      delay(150);
+      delay(300);
       leg_sixpush ();
-      delay(150);
+      delay(300);
       leg_sixpush1 ();
  delay (1000);
    
